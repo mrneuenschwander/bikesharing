@@ -4,10 +4,10 @@ Module 15 Tableau Challenge
 Link to Data Story and Vizzes: https://public.tableau.com/app/profile/emprr/viz/NYCBikeShare_Story_Final/Story1
 
 ## Overview of Project
-To show visually the relationships between the soft Starts and Stops of rental hours, subscribed riders vs non, and a breakdown of bike rentals by gender for the downtown area of NYC. It will be "used to predict and plan a similar ridesharing network in Des Moines" (for "RP'ing the challenge purposes").
+The purpose of this project was to show visually the relationships between the soft Starts and Stops of rental hours, subscribed riders vs non, and a breakdown of bike rentals by gender for the downtown area of NYC. It will be "used to predict and plan a similar ridesharing network in Des Moines" (for "RP'ing the challenge purposes").
 
 ### Purpose
-The purpose of this module and challenge are to get an initial look at Tableau and its inner workings. We learned how to import data and create relationships within that data, how to create "vizzes" based on that import, and how to create a story to pull all of it together. The lessons provided an overview of what Tableau can be used for, its major benefits, and how it may be used in a corporate or similar analytic setting to make a feed of data (in this case millions of lines long) digestible and easy to follow and sort depending on the kind of information required. It feels like a distant cousin of Sequel, but instead of writing the queries by hand, the information is attained via drag-and-drop of the identified categories within a .csv file.
+In the end, the goal was to get an initial look at Tableau and its inner workings. We learned how to import data and create relationships within that data, how to create "vizzes" based on that import, and how to create a story to pull all of it together. The lessons provided an overview of what Tableau can be used for, its major benefits, and how it may be used in a corporate or similar analytic setting to make a feed of data (in this case millions of lines long) digestible and easy to follow and sort depending on the kind of information required. It almost feels like a distant cousin of Sequel, but instead of writing the queries by hand, the information is attained via drag-and-drop of the identified categories within a .csv file.
 
 ## Results
 
