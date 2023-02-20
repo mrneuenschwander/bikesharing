@@ -23,7 +23,11 @@ The majority of the riders - as a whole - are subscribed. Supported by the data 
 
 <img width="652" alt="3" src="https://user-images.githubusercontent.com/116296092/219983173-c1692383-b2fb-4d5f-86ef-202bccff75c3.png">
 
-Considering the "Undefined" gender category among unsubscribed riders, it is likely these in particular are one-off accts that simply did not take the time to finish filling out the sign-up and/or liability form. Accounts that are used once or only as needed and irregularly. This conclusion was drawn from the fact there is a vastly higher number of Undefined, Unsubscribed riders than there are Undefined, Subscribed riders. Riders that are subscribed and Undefined may find more engagement if there were more gender options upon account creation, and may increase the company's image as a whole.
+Considering the "Undefined" gender category among unsubscribed riders, it is likely these in particular are one-off accts that simply did not take the time to finish filling out the sign-up and/or liability form. Accounts that are used once or only as needed and irregularly. This conclusion was drawn from the fact there is a vastly higher number of Undefined, Unsubscribed riders than there are Undefined, Subscribed riders.
+
+<img width="658" alt="7" src="https://user-images.githubusercontent.com/116296092/219983736-206207d9-a323-422c-baff-d42f6ac59c7c.png">
+
+Riders that are subscribed and Undefined may find more engagement if there were more gender options upon account creation, and may increase the company's image as a whole.
 
 <img width="1511" alt="4" src="https://user-images.githubusercontent.com/116296092/219983177-5504de76-44da-44c4-8b48-d26928a6e837.png">
 
